@@ -10,18 +10,24 @@
     "description":"Shadow Modz listing of VRChat packages",
     "infoLink":{
         "url":"https://shadowmodz.dev/",
-        "text":"Our Website"
+        "text":"Our Website",
+        "url":"https://shadowhub.dev/",
+        "text":"Our Discord"
     },
     "bannerUrl":"banner.png",
     "githubRepos":[
-        "vrchat-community/clientsim"
+        "Shadow-Modz/dev.shadowbyte.sdk",
+        "Shadow-Modz/dev.shadowbyte.autolightingtool"
     ],
     "packages":[
         {
-            "name":"com.vrchat.udonsharp",
+            "name":"dev.shadowbyte.sdk",
             "releases":[
-                "https://github.com/vrchat-community/UdonSharp/releases/download/1.1.7/com.vrchat.UdonSharp.zip",
-                "https://github.com/vrchat-community/UdonSharp/releases/download/1.1.6/com.vrchat.UdonSharp-1.1.6.zip"
+                "https://github.com/Shadow-Modz/dev.shadowbyte.sdk/releases/tag/6.0.1"
+            ],
+            "name":"dev.shadowbyte.autolightingtool",
+            "releases":[
+                "https://github.com/Shadow-Modz/dev.shadowbyte.autolightingtool/releases/tag/2.0.0"
             ]
         }
     ]
