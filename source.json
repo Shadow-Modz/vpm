@@ -1,5 +1,5 @@
 {
-    "name":"Shadow Modz | VPM Repo",
+    "name":"",
     "id":"dev.shadowmodz.vpm",
     "url":"https://shadow-modz.github.io/vpm/index.json",
     "author":{
@@ -10,7 +10,7 @@
     "description":"Shadow Modz listing of VRChat packages",
     "infoLink":{
         "url":"https://shadowmodz.dev/",
-        "text":"Home Page"
+        "text":"Our Website"
     },
     "bannerUrl":"banner.png",
     "githubRepos":[
