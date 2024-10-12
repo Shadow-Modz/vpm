@@ -1,16 +1,18 @@
 {
-    "name":"Example Listing",
-    "id":"com.vrchat.example-listing",
-    "url":"https://vrchat-community.github.io/template-package-listing/index.json",
+    "name":"Shadow Modz Repo",
+    "id":"com.shadow.listing",
+    "url":"https://shadow-modz.github.io/vpm/index.json",
     "author":{
-        "email":"developer@vrchat.com",
-        "name":"VRChat",
-        "url":"https://hello.vrchat.com"
+        "email":"shadow@shadowmodz.dev",
+        "name":"Shadow Modz",
+        "url":"https://shadowmodz.dev/"
     },
-    "description":"Example listing of VRChat packages",
+    "description":"Shadow Modz listing of VRChat packages",
     "infoLink":{
-        "url":"http://github.com/vrchat-community/template-package-listing",
-        "text":"View on GitHub"
+        "url":"https://shadowmodz.dev/",
+        "text":"Home Page"
+        "url":"https://shadowhub.dev/",
+        "text":"Discord Server"
     },
     "bannerUrl":"banner.png",
     "githubRepos":[
