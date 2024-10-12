@@ -1,5 +1,5 @@
 {
-    "name":"",
+    "name":"Shadow Modz Assets",
     "id":"dev.shadowmodz.vpm",
     "url":"https://vpm.shadowmodz.dev/index.json",
     "author":{
@@ -7,7 +7,7 @@
         "name":"Shadow Modz",
         "url":"https://shadowmodz.dev/"
     },
-    "description":"Shadow Modz listing of VRChat packages",
+    "description":"Listing for all publicly distributed assets by Shadow Modz.",
     "infoLink":{
         "url":"https://shadowmodz.dev/",
         "text":"Our Website",
