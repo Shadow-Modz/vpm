@@ -5,14 +5,12 @@
     "author":{
         "email":"shadow@shadowmodz.dev",
         "name":"Shadow Modz",
-        "url":"https://shadowmodz.dev/"
+        "url":"https://shadowhub.dev/"
     },
     "description":"Listing for all publicly distributed assets by Shadow Modz.",
     "infoLink":{
         "url":"https://shadowmodz.dev/",
-        "text":"Our Website",
-        "url":"https://shadowhub.dev/",
-        "text":"Our Discord"
+        "text":"Our Website"
     },
     "bannerUrl":"banner.png",
     "githubRepos":[
